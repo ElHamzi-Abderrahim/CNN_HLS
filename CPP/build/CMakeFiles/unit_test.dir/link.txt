@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -g CMakeFiles/unit_test.dir/src/main.cpp.o CMakeFiles/unit_test.dir/src/Image_processing.cpp.o CMakeFiles/unit_test.dir/src/ImgProcTest.cpp.o CMakeFiles/unit_test.dir/src/convolution.cpp.o CMakeFiles/unit_test.dir/src/maxpool.cpp.o CMakeFiles/unit_test.dir/src/last_stage_net.cpp.o -o unit_test 

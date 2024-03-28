@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/abder/SESNum/MobilitePhelma/SEI-SOC/projet_CNN/HLS_DEBUG/cnn/debugHLS/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\hls.dir\\hls.cpp.obj -c C:\\Users\\abder\\SESNum\\MobilitePhelma\\SEI-SOC\\projet_CNN\\HLS_DEBUG\\cnn\\debugHLS\\hls.cpp",
+  "file": "C:/Users/abder/SESNum/MobilitePhelma/SEI-SOC/projet_CNN/HLS_DEBUG/cnn/debugHLS/hls.cpp",
+  "output": "CMakeFiles/hls.dir/hls.cpp.obj"
+}
+]

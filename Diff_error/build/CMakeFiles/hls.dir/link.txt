@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libhls.a CMakeFiles/hls.dir/hls.cpp.obj
+C:\MinGW\bin\ranlib.exe libhls.a
